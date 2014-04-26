@@ -11,4 +11,7 @@ You can create a new repository on Github by going on GitHub.com and signing in.
 
 Open Source means sharing your code or program to the the public. If it is Open Source, people will be able to copy your work, edit or customize it for their need or their customers' needs. Open Source is a great way to get people to try out your software and get more ideas on how to improve your code.
 
-I think Open Source is awesome. Not only do we get to use the programs, but also doesn't cost anything to the user.
+I think Open Source is awesome. Not only do we get to use the programs, it also doesn't cost anything to the user. Open Source creates an enviornment for collaboration, people can take your programs and improve them in ways you had not thought about. It opens the door for many creative uses for your program, which can benefit you and others who use it. I would not recommend Open Source if your sole purpose is to make money with your program, and if you have a product/program of value that you believe people are willing to pay money for. However, Open Source will help you achieve much more with your programming because you have a community of programmers that will help you build up your programming.
+
+
+Licensing is important because it ensures you get credit for the work that you have done and prevents others from claiming
