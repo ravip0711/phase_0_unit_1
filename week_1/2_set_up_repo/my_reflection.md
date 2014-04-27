@@ -19,3 +19,4 @@ Licensing is important because it ensures you get credit for the work that you h
 
 I solidified my skills in making a repository and adding the files on my own personal computer. I already knew a little about Open Source, but it was helful to get more clarification as to why web developers use Open Source. I had an "aha" moment when I read about this activity and the section came up about licensing. I instantly knew the rest of the activity was going to be about creating Open Source code, but using a license so you maining the credit for developing it. The only struggle I had was comparing the different types of licensing. It was a little complicated comparing all of them and what factors distinguish them from each other.
 
+I found an article that helped me understand licensing. Here it is: http://opensource.sys-con.com/node/318776.
