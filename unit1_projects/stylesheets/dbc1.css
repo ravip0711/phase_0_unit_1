@@ -1,0 +1,27 @@
+/*blue color for paragraphs*/
+div{
+	color: #009000
+}
+
+.greenlettering{
+	color: #ff0000;
+	text-align: right
+}
+
+/*Picked red as the head color*/
+h1, h2, h3, h4, h5, h6 {
+	color: #CC0000
+}
+
+a:link {
+	color: #FFAA00
+}
+
+body{
+	border-color: solid, #FFFFFF; border-top-width: 10px
+}
+
+#intro{
+	color: #FFAA00;
+	text-align: center
+}
