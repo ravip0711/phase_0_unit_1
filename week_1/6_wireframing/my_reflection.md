@@ -10,4 +10,8 @@
 * Which parts of the challenge did you enjoy?
 * Which parts of the challenge did you find tedious?
 
-<!-- Add your reflection here. Remove the comment markers -->
+I learned that design is very much more than just visual. A lot of thought process goes into the creation of a design and there are many different types of design thinking and user experience methodologies. User experience is something that may seem very simple, but requires a step by step process to be most effetive.
+
+I do like design and user experience. Having a marketing major in college, the whole time I was thinking about the typical analytics when it comes to webpage design. Things such as conversion, click rate, and average visitor time on page. It was fun working on my site, however I thought design was more conceptual in this activity. Typically, you get more out of design when working in a group and going through the step by step process of creating a design and user experience.
+
+I asked about why wireframing was a huge deal when starting off with a website. I read the resources that were given to us. I felt as though every article had more or less elements than the other in terms of looking for recsources.

@@ -1,17 +1,39 @@
 
-
-
-b{
-	margin: auto;
-	border-radius: 20px; 
-	border-color: #006699
+body{
+	padding: 20px;
 }
 
+#header{
+	background-color: #4C4C4C;
+	color: #FFFFFF;
+	text-align: center;
+}
 
+/* can't get this to move over a little form the navigation menu */
+#into{
+	text-align: center;
+}
 
+#navigation{
+	background-color: #FF0000;
+	text-align: left;
+	float: left;
+}
 
-.footer{
-	color: #669999; 
-	float: bottom;
+#favorites{
+	padding-top: 50px
+}
 
+#caption{
+	position: absolute;
+	top: 570px;
+	left: 200px;
+	color: white;
+	background-color: orange
+}
+
+#footer{
+	text-align: center;
+	color: #669999;
+	position: bottom
 }
