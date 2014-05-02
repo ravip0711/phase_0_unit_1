@@ -1,5 +1,7 @@
 ## 8. [Comparing Favorite Websites](8_technical_blog/readme.md) Reflection
 
-Blog url: <!-- Blog URL here (remove comment)  -->
+Blog url: ravip0711.github.io
 
 Reflect on the process of researching and writing a blog post. It doesn't have to be long. Did you enjoy this? Did you get comments or views? Did you find the blog helpful to your learning? Did you find it cumbersome? Which parts did you feel best about and which did you feel less certain about?
+
+Blog's are okay. I am not particularly a fan of writing much, but I've soon realized I do it more than I think I do. This leads me to being in a phase where I'm beginning to accept it and if I know I have to accept it, I will do my best to be good at it. I thought it was cool how we made a blog, not sure how much I liked the topic, but I liked the design part of it. Once I was done writing, I was looking forward to formatting it my way and trying it out. I have not gotten any comments or views, but I'm not sure how I would know that besides explicitly seen someone commenting about it or having someone tell me about it. I found the blog pretty good way to get your ideas out, what you are thinking. Again I enjoyed once the writing was done, being able to format it all into a nice webpage. I felt pretty good about understand wireframing and design, I was a little uncertain of the formating with CSS. I know all the very basics, but anything more I would have to do trial and error with my CSS in terms of positioning, padding, and float.
