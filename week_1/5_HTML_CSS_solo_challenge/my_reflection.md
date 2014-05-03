@@ -17,7 +17,7 @@ I am pretty confident about what they are. Just need more help on how to use and
 
 I enjoyed how fast I learned how to make the HTML file and start structuring it. CSS was pretty easy to figure out, I knew how to change the basics like background color, color of the text, and text aligning.
 
-I'm actually enjoying all the stuff I type out because I like to believe I type fast so nothing seems tedious when you know what your typing and where to place it. Main point "know what your typing and where to place it", I found it quick and easy to structure the HTML. I just didn't grasp the idea of the layout visually with CSS. I did use <div> and understand it is block form, but I am a little unsure of how it is used in HTML. For example, what is the difference between (<div>) and (<p>)?
+I'm actually enjoying all the stuff I type out because I like to believe I type fast so nothing seems tedious when you know what your typing and where to place it. Main point "know what your typing and where to place it", I found it quick and easy to structure the HTML. I just didn't grasp the idea of the layout visually with CSS. I did use <div> and understand it is block form, but I am a little unsure of how it is used in HTML. For example, what is the difference between div and p?
 
 
 
