@@ -2,7 +2,24 @@
 
 1. Copy your response to <a href="https://github.com/Devbootcamp/phase_0_unit_1/tree/master/week_1/6_Get_to_know_your_group" target="_blank"> Get to know your group</a> in this file.
 
-<!-- Insert your response here  -->
+Hi Everyone!
+
+I know this is so overdue, but don’t you worry I’m going to catch up! I’d like to introduce myself.
+
+My name is Ravi Patel, I’m from Tucson, AZ. My favorite websites are uncrate.com, google.com, and yahoo.com. My learning style is Kinesthetic, which means I am a social learner, like to interact and see things for myself. I am definitely very examples oriented, I learn the most when I am given examples and real case scenarios.
+
+Here’s links to my wonderful work!
+
+My reflection file: https://github.com/ravip0711/phase_0_unit_1/blob/master/week_1/7_get_to_know_your_group/my_reflection.md
+My Github site: http://ravip0711.github.io
+My wireframe html page: https://github.com/ravip0711/phase_0_unit_1/blob/master/unit1_projects/wireframe_sites.html
+
+Look forward to working with you all, I’m excited!
+
+Best,
+
+Ravi Patel
+
 
 2. Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
 
