@@ -1,0 +1,40 @@
+.body{
+	margin: 0 auto;
+	width: 900px;
+}
+
+#head{
+	background-color: lightblue;
+	color: grey;
+	text-align: center;
+	padding: 10px;
+}
+.nav{
+	float: left;
+	width: 150px;
+	height: 400px ;
+	background-color: lightblue;
+	text-align: center;
+}
+.navbar{
+	text-align: left;
+}
+.blog{
+	float: right;
+	width: 690px;
+	padding: 30px;
+	background-color: grey
+}
+.bloghead{
+	text-align: center;
+}
+#footer{
+	padding-left: 250px;
+	padding-right: 250px;
+	bottom: 0px;
+	text-align: center;
+}
+ul {
+ list-style: none;
+}
+
