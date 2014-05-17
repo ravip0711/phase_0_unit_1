@@ -29,7 +29,7 @@ Translate your pseudocode into code and see if it achieves the goals. If it does
 Repeat releases 1 and 2 for each mission.
 
 ## Release 3: Answer the following questions
-When you are finished with all of the campaigns, answer the following questions. You may want to look at some resources on JavaScript before answering.
+When you are finished with all of the campaigns, answer the following questions. You may want to look at sosourcesme re on JavaScript before answering.
   - What is `this` referring to? Think programming-wise rather than in the terms of the game. 
   - What does the `()` do in JavaScript?
   - What is the point of the semicolons?

@@ -132,6 +132,20 @@ I worked on this challenge by myself.
 		this.moveXY(49, 35);
 		this.attackXY(49, 64);
 		this.attackXY(50, 59);
+
+//Reflection:
+//What is `this` referring to? Think programming-wise rather than in the terms of the game. 
+
+// This is refering to call of the object. The object for example would be move down. If we want to move down, we need to call for it. "this." is that call that tells JavaScript call for move down.
+
+//What does the `()` do in JavaScript?
+
+// The '()' are parameters of the object or property. Lets say we need to multiple two numbers, we could write "multiply (x, y)". Which means we are leaving basically a space for two components/parameters. We are looking for an "x" number and a "y" number.
+
+//What is the point of the semicolons?
+
+// The point of semicolons is to end or linebreak of the code. You can help the decoder distinguish between code statements so it can be more divided up. Different browsers react different, you may get bugs in your coding, if you don't explicitly use semicolons. It also makes the code easier to read, which in turn make it easier to de-bug.
+
  
 // Reflection:
 This was a pretty easy tutorial following commands. Luckily we had the commands written for us at the bottom to use. I didn't really face any problems because it was really easy. I know you had to pay attention to every little detail because the code combat told you instantly what was wrong with your javascript. I just had questions related to how javascript works and how to set it up. I learned that you have to be particular with how you code in javascript because the syntax is different. I am pretty confident on the learning the competencies of this section. I enjoyed seeing my code work in realtime and make changes. I just wish the program was a bit faster, it had to keep loading when I made any changes and then the character would work. I think a tedious part of it is writing the code over and over again. For example you had to write this.moveRight, this.moveRight. Is there a way to just make it this.moveRight (x2)?

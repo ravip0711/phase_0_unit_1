@@ -19,6 +19,7 @@
 var person = "Ravi" {
 	name: "Ravi"
 	age: "24"
+	weapon: "Sword"
 	clan: "Swordins"
 }
 
@@ -36,7 +37,8 @@ this.moveRight
 
 // Refactored Code
 
-// I am not sure yet how to refactor. The only thing I understand when it means to refactor is to make your code more concise.
+// I am not sure yet how to refactor. The only thing I understand when it means to refactor is to make your code more concise. I am still grasping the knowledge about JavaScript, so my code is very simple and easy. Once I learn and practice more, my code will be more extensive where refractoring will be crucial to help not only speed up applications but make it clear and concise.
+
 
 
 
